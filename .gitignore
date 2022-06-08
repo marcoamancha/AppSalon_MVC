@@ -1,0 +1,7 @@
+src/
+vendor/
+node_modules/
+gulpfgile.js
+package.json
+package-lock.json
+.env
